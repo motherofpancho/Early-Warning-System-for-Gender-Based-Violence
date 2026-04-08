@@ -59,7 +59,7 @@ README (English)
 
 This repository contains the development of an Early Warning Model designed to identify the risk of judicial process interruption ("Non-Reporting") in cases of gender-based violence.
 
-The model was developed using data provided by the General Directorate of Gender of the Municipality of Bahía Blanca, as part of the Machine Learning course of the Data Science Specialization (UNLaM). The system is a technical research proposal and is not currently in operational use.
+The model was developed using data provided by the Dirección General de Género of the Municipality of Bahía Blanca, as part of the Machine Learning course of the Data Science Specialization (UNLaM). The system is a technical research proposal and is not currently in operational use.
 
 The analysis demonstrated how failures in administrative recording (such as the lack of geographic or housing data) act as critical predictors of the victim's disconnection from the judicial system. The main value of the project lies in:
 * **Invisibility Detection:** Identifying that the lack of data is not "noise", but a sign of vulnerability.
