@@ -5,6 +5,8 @@ Este repositorio contiene el desarrollo de un Modelo de Alerta Temprana diseñad
 
 El modelo fue desarrollado a partir de datos cedidos por la Dirección General de Género de la Municipalidad de Bahía Blanca, en el marco de la materia Aprendizaje Automático de la Especialización en Ciencia de Datos (UNLaM). El sistema es una propuesta técnica de investigación y no se encuentra en funcionamiento operativo actualmente.
 
+Este repositorio presenta el desarrollo de un Sistema de Alerta Temprana (SAT) diseñado para apoyar la toma de decisiones basada en evidencia en el ámbito de la prevención de la violencia de género. Desarrollado a partir de datos administrativos anonimizados proporcionados por la Dirección General de Género de la Municipalidad de Bahía Blanca, el proyecto demuestra cómo los métodos de ciencia de datos pueden traducirse en herramientas prácticas para identificar a mujeres con mayor riesgo de desvincularse de los circuitos institucionales de protección.
+
 El análisis permitió demostrar cómo las fallas en el registro administrativo (como la falta de datos geográficos o de vivienda) actúan como predictores críticos de la desconexión de la víctima con el sistema judicial. El valor principal del proyecto radica en:
 •	Detección de Invisibilidad: Identificar que la falta de datos no es "ruido", sino una señal de vulnerabilidad.
 •	Priorización de Sensibilidad: Optimizar el Recall (0.6842) para minimizar los falsos negativos en un contexto de protección humana.
@@ -60,6 +62,8 @@ README (English)
 This repository contains the development of an Early Warning Model designed to identify the risk of judicial process interruption ("Non-Reporting") in cases of gender-based violence.
 
 The model was developed using data provided by the Dirección General de Género of the Municipality of Bahía Blanca, as part of the Machine Learning course of the Data Science Specialization (UNLaM). The system is a technical research proposal and is not currently in operational use.
+
+This repository presents the development of an Early Warning System (EWS) designed to support evidence-informed decision-making in gender-based violence prevention. Developed using anonymized administrative data provided by the Dirección General de Género of the Municipality of Bahía Blanca, the project demonstrates how data science methods can be translated into practical tools for identifying women at greater risk of disengaging from institutional protection pathways.
 
 The analysis demonstrated how failures in administrative recording (such as the lack of geographic or housing data) act as critical predictors of the victim's disconnection from the judicial system. The main value of the project lies in:
 * **Invisibility Detection:** Identifying that the lack of data is not "noise", but a sign of vulnerability.
